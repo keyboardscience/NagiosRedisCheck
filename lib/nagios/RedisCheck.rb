@@ -1,0 +1,6 @@
+require 'nagiosplugin'
+require 'redis'
+require 'slop'
+require 'nagios/redischeck/keys'
+require 'nagios/redischeck/memory'
+require 'nagios/redischeck/sidekiq'
